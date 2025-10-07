@@ -1,6 +1,5 @@
 """
 scene_manager.py - Gestionnaire des scènes utilisant config.py
-Version avec support de sauvegarde/restauration des effets
 """
 import json
 import os
