@@ -1,4 +1,4 @@
-** LightControl – Mini Régie Lumière Virtuelle **
+** LightControl – Mini Régie Lumière Virtuelle (french)**
 
 LightControl est une application Python simulant une console DMX virtuelle.
 Elle permet de contrôler plusieurs projecteurs virtuels, d’ajuster leurs couleurs et intensités, d’appliquer des effets (strobe, fondu, chaser, blink) et de sauvegarder ou charger des scènes.
